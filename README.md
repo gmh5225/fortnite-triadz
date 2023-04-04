@@ -1,19 +1,17 @@
-# triadz
-A fortnite cheat based on old sources! Nice menu and more!
+UPDATED TO LATEST SEASON
 
-
-Fixed:
+AIMBOT
+SILENTAIM
 ESP
-Aimbot tracing
-Gui Slider
-Rapid Fire
-
-Added:
-Car Fly
-Charm
-Player teleport (need to have AR )
-Better Sniper prediction!
-
-Deleted:
-Player Fly ( was auto ban )
-Old EAC bypass ( Broken )
+LOOT ESP
+KILL ALL
+WALK ON WATER
+BULLET TP
+FOV CHANGER
+RAPIDFIRE
+NO RELOAD ANIMATION
+UNREAL ENGINE 5 DEV CONSOLE
+ 
+ 
+ 
+ UNDETECTRED
